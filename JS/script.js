@@ -12,7 +12,7 @@ function GSAP() {
         scale: 13
     })
     tl.to(".page1 video", {
-        "--clip": "3.1578%",
+        "--clip": "0%",
         duration: 5,
 
     }, "a")
